@@ -2,7 +2,7 @@
 Automatically generate the coordinates of the AWS Deepracer track.
 
 # Run
-Go to the offical github repo to get the track and put it into the `track` folder.
+Go to the offical github repo to get the track and put it into the `tracks` folder.
 
 ```bash
 python3 -m venv venv
